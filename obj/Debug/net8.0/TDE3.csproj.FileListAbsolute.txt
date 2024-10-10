@@ -1,0 +1,4 @@
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDE3\obj\Debug\net8.0\TDE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDE3\obj\Debug\net8.0\TDE3.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDE3\obj\Debug\net8.0\TDE3.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDE3\obj\Debug\net8.0\TDE3.csproj.CoreCompileInputs.cache
